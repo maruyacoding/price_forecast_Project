@@ -23,11 +23,11 @@
 |  프로젝트 순서 |     Point    | 세부 내용 |  
 |:------------------:| -----|------|
 |문제 정의| 농산물 가격 예측,  ||
-|데이터 수집| Kaggle 데이터셋, 크롤링 한 데이터 ||   
-|데이터 전처리| 이미지 정제 |
-|모델 학습| Modeling : ResNet, VGG16, EfficientNet... |   |
-|모델 평가| Crossentropy, Accuracy | |
-|모델 성능 향상| 데이터 추가 모집, BatchNorm, data augmentation... |   |
+|데이터 수집| DACON 데이터셋, 크롤링 한 데이터 ||   
+|데이터 전처리| 품목 별로 결측치, 이상치 제거 |
+|모델 학습| Modeling : SARIMAX, LSTM, Prophet, LGBM, Xgboost, RandomForest.. |   |
+|모델 평가| MSE, RMSE (**데이터 파악 후 목적에 부합한 평가지표 선택할 예정**) | |
+|모델 성능 향상| 데이터 추가 모집, 데이터 전처리, Hyper-parameter.. |   |
 
 <br>
 
@@ -38,7 +38,7 @@
 
 - 인원: 권태하, 박찬샘, 조현영, 최윤아
 - 데이터: DACON 농산물 가격예측 AI 경진대회 데이터 +) 외부 변수 데이터 (기상, 유통 등)
-- 역할: 데이터 수집(DACON, 크롤링..), EDA, Modeling
+- 역할: 기획, 데이터 수집(DACON, 크롤링..), EDA, Modeling
 - 협업장소: 슬랙, 노션, github
 - 소통: 매일 회의를 통해 진행사항 공유, 슬랙을 통한 실시간 소통
 - 저장소: Git

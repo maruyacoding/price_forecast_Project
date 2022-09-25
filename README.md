@@ -4,13 +4,12 @@
 
 <br>
 
-![image](https://miro.medium.com/max/1400/1*CnNorCR4Zdq7pVchdsRGyw.png)
-
+![image](https://img.hankyung.com/photo/201805/AB.16625443.1.jpg)
 
 ## 주제 : 농산물 가격 예측 (Agricultural products Price-forecast)
 <br>
 
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.hankyung.com%2Fphoto%2F201805%2FAB.16625443.1.jpg&imgrefurl=https%3A%2F%2Fwww.hankyung.com%2Finternational%2Farticle%2F201805034974i&tbnid=QG7WNjRr_XJeQM&vet=12ahUKEwjz68CEkbD6AhVLUJQKHWYFCckQMygEegUIARDlAQ..i&docid=7hgN4QQt_qUYcM&w=620&h=406&q=%EB%86%8D%EC%82%B0%EB%AC%BC&ved=2ahUKEwjz68CEkbD6AhVLUJQKHWYFCckQMygEegUIARDlAQ)
+![image](https://res.cloudinary.com/linkareer/image/fetch/f_auto/https://api.linkareer.com/attachments/39888)
 
 <br>
 

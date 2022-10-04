@@ -26,7 +26,7 @@
 |데이터 수집| DACON 데이터셋, 크롤링 한 데이터 ||   
 |데이터 전처리| 품목 별로 결측치, 이상치 제거 |
 |모델 학습| Modeling : SARIMAX, LSTM, Prophet, LGBM, Xgboost, RandomForest.. |   |
-|모델 평가| MSE, RMSE (**데이터 파악 후 목적에 부합한 평가지표 선택할 예정**) | |
+|모델 평가| MAPE, MSE, RMSE (**데이터 파악 후 목적에 부합한 평가지표 선택할 예정**) | |
 |모델 성능 향상| 데이터 추가 모집, 데이터 전처리, Hyper-parameter.. |   |
 
 <br>

@@ -1,4 +1,4 @@
-**baseline model**
+## **baseline model**
 
 feature : 농산물 도매 거래 데이터, 기상데이터, 유가데이터, 재배면적, 소비자 물가지수 , 날짜데이터(year, month, day, weekday)
 
@@ -8,6 +8,7 @@ feature : 농산물 도매 거래 데이터, 기상데이터, 유가데이터, �
 4. StandardScaler 사용
 5. LinearRegression, Lasso, Ridge, LGBM, XGboost, RF 모델 사용
 
+---
 
 baseline model 결과 mape 값
 (순서대로 LinearRegression, Lasso, Ridge, LGBM, XGboost, RF)

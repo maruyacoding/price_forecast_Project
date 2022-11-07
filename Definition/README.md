@@ -10,6 +10,12 @@
 - 직매입방식은, 제품 수급 및 재고, 물류비용의 대부분을 마켓컬리가 부담해야 함 
 - 가격예측을 기반으로 매입량과 매입시기를 관리할수 있다면, 물류 및 상품매입 비용을 줄일수 있음 
 - 따라서 가격을 예측하는 것은 리테일 비즈니스에 중요함 
+
+![image](https://user-images.githubusercontent.com/97514461/200258376-35261f67-d2dd-4b34-8d6c-e9aa24056586.png)
+![image](https://user-images.githubusercontent.com/97514461/200258443-7f67d30b-84ca-4033-a3b2-e4b384a6c90e.png)
+![image](https://user-images.githubusercontent.com/97514461/200258492-a43a427c-9505-4a7a-ad91-5557372bb83b.png)
+
 ---
 
 결론 : 효율적인 의사결정을 위한 농산물 가격 예측
+![image](https://user-images.githubusercontent.com/97514461/200258570-3e72ff2c-1cb5-4c9e-bd54-fdc8eb9a11f5.png)

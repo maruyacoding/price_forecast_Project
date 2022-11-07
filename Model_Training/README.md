@@ -19,7 +19,8 @@ baseline model 결과 mape 값
 - 마늘   : 0.11, 0.11, 0.11, 0.10, 0.11, 0.12
 - 건고추 : 0.39, 0.39, 0.39, 0.42, 0.38, 0.42
 
-![image](https://user-images.githubusercontent.com/97514461/200253744-ffbb1c2a-0df1-44d4-b0cf-87bf8ca261ac.png)
+![image](https://user-images.githubusercontent.com/97514461/200254433-90eebf28-d970-4b3c-9381-078069c6ef36.png)
+
 
 
 ---
@@ -40,7 +41,8 @@ baseline model 결과 mape 값
 - Prophet 모델 : 이상치 제거, 휴일 추가, hyper-parameter tuning까지 진행 후 성능 확인
 
 
-![image](https://user-images.githubusercontent.com/97514461/200253804-db9d0c6a-4375-4598-8110-dd9bac7a85f0.png)
+![image](https://user-images.githubusercontent.com/97514461/200254486-0616a698-db32-47cc-aa97-ba0453d457e1.png)
+
 
 
 ---

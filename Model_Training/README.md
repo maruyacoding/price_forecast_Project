@@ -19,8 +19,9 @@ baseline model 결과 mape 값
 - 마늘   : 0.11, 0.11, 0.11, 0.10, 0.11, 0.12
 - 건고추 : 0.39, 0.39, 0.39, 0.42, 0.38, 0.42
 
+
 ---
----
+
 
 ## **2. 사과 data modeling**
 
@@ -30,11 +31,11 @@ baseline model 결과 mape 값
 2. 시계열 데이터 분포 feature 추가
 3. 외부변수 제외, 시계열 분포 feature만 사용
 
-  1. Time series cross validation 5 fold로 진행
-  2. LightGBM Optuna train : test = 8 : 2 로 진행
-  3. LGBM hyper-parameter tuning한 모델로 Predictied, Actual 시각화
-  4. LGBM feature importances 시각화
-  5. Prophet 모델 : 이상치 제거, 휴일 추가, hyper-parameter tuning까지 진행 후 성능 확인
+- Time series cross validation 5 fold로 진행
+- LightGBM Optuna train : test = 8 : 2 로 진행
+- LGBM hyper-parameter tuning한 모델로 Predictied, Actual 시각화
+- LGBM feature importances 시각화
+- Prophet 모델 : 이상치 제거, 휴일 추가, hyper-parameter tuning까지 진행 후 성능 확인
 
 
 

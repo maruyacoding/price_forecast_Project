@@ -56,3 +56,14 @@ baseline model 결과 mape 값
 ![image](https://user-images.githubusercontent.com/97514461/200254176-40c3deb2-0153-4885-967f-e7ca4cd44612.png)
 
 
+---
+
+
+## **4. 다양한 경우의 수로 modeling**
+![image](https://user-images.githubusercontent.com/97514461/200255229-c0410cb9-6246-4cfd-b2e3-b9b3db2df500.png)
+
+- RobustSacler 사용
+- Time Series Cross Validation 5 fold
+![image](https://user-images.githubusercontent.com/97514461/200255492-ecabe0e4-775a-4e8b-a2a4-145e52592f44.png)
+
+

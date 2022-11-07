@@ -1,4 +1,4 @@
-DataFrame 통합 
+## DataFrame 통합 
 ---
 Dacon data 활용 https://dacon.io/competitions/official/235801/overview/description
 - raw data는 1달 단위로 존재
@@ -12,3 +12,9 @@ Dacon data 활용 https://dacon.io/competitions/official/235801/overview/descrip
 5. 거래가 취소(음수인 경우)나 0인 경우 drop -> 거래가 양수인 경우의 데이터만 진행
 6. index 정렬
 7. csv -> parquet 파일로 저장 (용량 1GB -> 159MB)
+---
+
+### 총 데이터 : 약 1900만개 / columns : 15개 [row, columns = 18984089, 15]
+
+
+![image](https://user-images.githubusercontent.com/97514461/200258965-d1dd31e2-5a4a-461c-8c90-2c96221e7286.png)

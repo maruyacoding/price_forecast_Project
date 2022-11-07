@@ -1,4 +1,5 @@
 # price_forecast_Project
+- 최종 발표 자료 : [마켓컬리_최종발표.pdf](https://github.com/maruyacoding/price_forecast_Project/files/9949533/_.pdf)
 
 <br>
 

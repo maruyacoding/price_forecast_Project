@@ -19,6 +19,8 @@ baseline model 결과 mape 값
 - 마늘   : 0.11, 0.11, 0.11, 0.10, 0.11, 0.12
 - 건고추 : 0.39, 0.39, 0.39, 0.42, 0.38, 0.42
 
+![image](https://user-images.githubusercontent.com/97514461/200253744-ffbb1c2a-0df1-44d4-b0cf-87bf8ca261ac.png)
+
 
 ---
 
@@ -38,5 +40,17 @@ baseline model 결과 mape 값
 - Prophet 모델 : 이상치 제거, 휴일 추가, hyper-parameter tuning까지 진행 후 성능 확인
 
 
+![image](https://user-images.githubusercontent.com/97514461/200253804-db9d0c6a-4375-4598-8110-dd9bac7a85f0.png)
+
+
+---
+
+
+## **3. AutoML**
+
+- initialize setup : data_split_shuffle = False, target = '1week', fold_strategy = 'timeseries', fold = 3
+- 전품종 AutoML(Pycaret Regression) 돌리고 대략적인 성능 확인
+
+![image](https://user-images.githubusercontent.com/97514461/200254176-40c3deb2-0153-4885-967f-e7ca4cd44612.png)
 
 

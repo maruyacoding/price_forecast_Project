@@ -66,4 +66,10 @@ baseline model 결과 mape 값
 - Time Series Cross Validation 5 fold
 ![image](https://user-images.githubusercontent.com/97514461/200255492-ecabe0e4-775a-4e8b-a2a4-145e52592f44.png)
 
+---
+
+## **5. 라이브 코딩으로 팀원들과 의논하며 feature selection, engineering 및 modeling 진행**
+
+![image](https://user-images.githubusercontent.com/97514461/200256521-5826c4a9-db4b-4f82-8739-dabbe459a873.png)
+
 

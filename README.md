@@ -1,5 +1,7 @@
 # price_forecast_Project
 - 최종 발표 자료 : [마켓컬리_최종발표.pdf](https://github.com/maruyacoding/price_forecast_Project/files/9949533/_.pdf)
+- 프로젝트 노션 : https://www.notion.so/_-_-_8-abd9e024dedb4982a184e6c48ed0e764
+
 
 <br>
 

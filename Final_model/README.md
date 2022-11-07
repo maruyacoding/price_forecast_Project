@@ -19,3 +19,7 @@
 
 #### 4주 예측 / 사과 Linear Regression 예측값, 실제값 시각화
 ![image](https://user-images.githubusercontent.com/97514461/200262420-c1a7cd60-081e-4b4a-b2e7-fa3613c7ebc8.png)
+
+
+1, 2, 4주 MAPE값 비교
+![image](https://user-images.githubusercontent.com/97514461/200262689-064fd9fa-b181-42c0-a9eb-49b63dc26985.png)

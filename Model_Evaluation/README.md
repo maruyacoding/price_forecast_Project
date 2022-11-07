@@ -13,4 +13,4 @@
 - Time Series Cross Validation(tscv) 활용 -> Stack구조로 앞 단의 데이터 부터 쌓아가면서 model fit
 ![image](https://user-images.githubusercontent.com/97514461/200257700-fcda4dca-55a9-4c94-a433-c5d4670fd79e.png)
 
-- **Train, Validation set가지고 tscv 진행 -> 최종 모델 선정 -> Test set으로 MAPE값 성능 확인**
+- **Train, Validation set가지고 tscv 진행 -> 최종 모델 선정 -> 최종모델 Test set으로 MAPE값 성능 확인**

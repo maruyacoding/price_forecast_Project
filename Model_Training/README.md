@@ -1,4 +1,4 @@
-## **baseline model**
+## **1. baseline model**
 
 feature : SALEDATE(판매일), mean_price(평균단가), year, month, day, weekday
 
@@ -18,4 +18,8 @@ baseline model 결과 mape 값
 - 배추   : 0.25, 0.25, 0.25, 0.19, 0.18, 0.22
 - 마늘   : 0.11, 0.11, 0.11, 0.10, 0.11, 0.12
 - 건고추 : 0.39, 0.39, 0.39, 0.42, 0.38, 0.42
+
+===
+
+## **2. 사과 
 
